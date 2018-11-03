@@ -3,6 +3,7 @@
 A Flutter package that helps with prototyping.
 
 ## Installation
+This is a temporary installation option to allow fluttery with Dart >2.0. It has not been fully tested on >=2.0.
 
     #pubspec.yaml
     # . . .
