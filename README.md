@@ -2,6 +2,17 @@
 
 A Flutter package that helps with prototyping.
 
+## Installation
+
+    #pubspec.yaml
+    # . . .
+    dependencies:
+      flutter:
+        sdk: flutter
+    
+      fluttery:
+        path: ../fluttery # link to location of fluttery folder
+
 ## Framing
 
 Helps with framing user interfaces. For example:
